@@ -1,0 +1,23 @@
+{
+  "brand": "Te Equipamos",
+  "schema_version": 2,
+  "items": [
+    {
+      "active": true,
+      "type": "review",
+      "sections": ["Reviews", "Novedades"],
+      "activities": ["running"],
+      "product_type": "editorial-running",
+      "title": "Kalenji: calidad, tecnología y precio inteligente",
+      "summary": "Análisis editorial de Kalenji: ligereza, transpirabilidad, libertad de movimiento, pruebas y relación calidad-precio para running.",
+      "details": "Editorial de Te Equipamos sobre el enfoque de Kalenji en equipamiento de running, materiales técnicos, uso real y valor por el precio.",
+      "image": "https://contents.mediadecathlon.com/p2441324/k%24906aff5bbc8169c5e0140ec352739ce3/men-s-running-shoes-jogflow-500-1-navy-mauve-kalenji-8767162.jpg?f=1920x0&format=auto",
+      "time": "Editorial · Running",
+      "score": 92,
+      "featured": false,
+      "direct": true,
+      "tags": ["kalenji", "running", "equipamiento", "calidad-precio", "tecnologia"],
+      "url": "https://jorgesport.github.io/te-equipamos-kalenji-editorial/"
+    }
+  ]
+}
