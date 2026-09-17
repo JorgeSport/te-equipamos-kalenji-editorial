@@ -4,9 +4,8 @@
   "items": [
     {
       "active": true,
-      "type": "review",
+      "type": "news",
       "sections": [
-        "Reviews",
         "Novedades"
       ],
       "activities": [
@@ -40,7 +39,8 @@
       ],
       "url": "https://jorgesport.github.io/te-equipamos-kalenji-editorial/",
       "id": 3393728815,
-      "published_at": "2026-09-16T00:00:00+02:00"
+      "published_at": "2026-09-16T00:00:00+02:00",
+      "content_label": "Editorial"
     }
   ]
 }
